@@ -1,0 +1,15 @@
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\bin\Debug\net9.0\NomeCompleto.exe
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\bin\Debug\net9.0\NomeCompleto.deps.json
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\bin\Debug\net9.0\NomeCompleto.runtimeconfig.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\bin\Debug\net9.0\NomeCompleto.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\bin\Debug\net9.0\NomeCompleto.pdb
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.AssemblyInfoInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.AssemblyInfo.cs
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.csproj.CoreCompileInputs.cache
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.sourcelink.json
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\refint\NomeCompleto.dll
+c:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.pdb
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\NomeCompleto.genruntimeconfig.cache
+C:\Users\RobertoPC\Desktop\Atividades FATEC\1 ciclo\Logica\NomeCompleto\obj\Debug\net9.0\ref\NomeCompleto.dll
